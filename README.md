@@ -1,10 +1,11 @@
 ## Olá, Matheus Aqui! 👋
 
-🚀 Esse repositório marca o começo da minha jornada como futuro engenheiro de software. 
+> _"Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu."_  
+> — Eclesiastes 3:1
 
-Nada perfeito, mas cada linha aqui é um passo na direção certa e é só o começo novas versões, melhorias e aprendizados vão chegar com o tempo.  
+Explorando o backend, criando sistemas e evoluindo projeto por projeto.
 
-Obrigado por passar por aqui! 🔥☕
+Cada linha de código aqui é parte de algo maior. 
 
  <a href="https://www.linkedin.com/in/matheusatauloborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/matheusataulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
